@@ -1,0 +1,2 @@
+# JavaProject
+This project is a Java-based board game inspired by Monopoly mechanics but with a unique twist. Instead of buying properties, players have a limited number of lives and a certain amount of money. As they move around the board by rolling dice, they must manage their resources carefully to reach the end without going bankrupt or losing all their lives. The board includes special tiles that can either help or harm the players. The game is built using object-oriented programming principles, with classes for players, the board, tiles, game logic, etc.
